@@ -1,0 +1,19 @@
+{
+  "name": "pier",
+  "version": "1.0.0",
+  "description": "Dockerised web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaramir/pier.git"
+  },
+  "author": "Francesco Gigli <jaramir@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaramir/pier/issues"
+  },
+  "homepage": "https://github.com/jaramir/pier#readme"
+}
